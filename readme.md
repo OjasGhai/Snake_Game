@@ -1,0 +1,1 @@
+A Python implementation of the classic Snake Game using Turtle graphics. Control the snake, grow longer by eating food, and avoid collisions to achieve the highest score. Simple and nostalgic gaming fun!
